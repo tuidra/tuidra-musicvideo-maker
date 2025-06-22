@@ -4,6 +4,8 @@
 
 A Python-based tool that automatically generates music videos with synchronized lyrics from MP3 files. It combines high-precision voice recognition using OpenAI Whisper with real-time background generation using GLSL shaders to easily create lyric videos.
 
+![ScreenShot](https://raw.githubusercontent.com/tuidra/tuidra-musicvideo-maker/refs/heads/main/screenshot.png)
+
 ## Key Features
 
 ### 🎵 Automatic Lyrics Synchronization with Voice Recognition
