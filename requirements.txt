@@ -1,0 +1,9 @@
+openai-whisper
+pandas
+numpy
+torch
+pykakasi
+moviepy
+wgpu-shadertoy
+pillow
+glfw
